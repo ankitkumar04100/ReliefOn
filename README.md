@@ -56,3 +56,24 @@ graph TD
   E --> G[NGOs & Volunteers]
   F --> G
   G -->|Task Updates| D
+
+## Installation & Setup
+
+# Clone repository
+git clone https://github.com/ankitkumar04100/reliefon.git
+cd reliefon
+
+# Backend
+cd backend
+npm install
+npm run dev
+
+# Frontend
+cd frontend
+npm install
+npm start
+
+# AI Engine
+cd ai-engine
+pip install -r requirements.txt
+
