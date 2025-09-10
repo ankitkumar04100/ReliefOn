@@ -9,5 +9,5 @@ We love contributions from the community! By participating, you help make Relief
 
 2. **Clone your Fork**
 ```bash
-git clone https://github.com/yourusername/reliefon.git
+git clone https://github.com/ankitkumar04100/reliefon.git
 cd reliefon
