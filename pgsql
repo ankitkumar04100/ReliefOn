@@ -23,10 +23,3 @@ ReliefOn/
 │   ├── nlp_model.py
 │   ├── clustering.py
 │   └── requirements.txt
-├── docs/
-│   ├── ARCHITECTURE.md
-│   ├── ROADMAP.md
-│   └── USER_GUIDE.md
-└── assets/
-    ├── reliefon-logo.png
-    └── demo-thumbnail.png
