@@ -1,17 +1,17 @@
-## Clone repository
+# Clone repository
 git clone https://ankitkumar04100/reliefon.git
 cd reliefon
 
-## Backend
+# Backend
 cd backend
 npm install
 npm run dev
 
-## Frontend
+# Frontend
 cd frontend
 npm install
 npm start
 
-## AI Engine
+# AI Engine
 cd ai-engine
 pip install -r requirements.txt
