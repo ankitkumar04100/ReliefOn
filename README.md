@@ -11,6 +11,13 @@
 - [Inspiration](#inspiration)
 - [What It Does](#what-it-does)
 - [Built With](#built-with)
+- [Features](#features)
+- [Accomplishments](#accomplishments)
+- [What We Learned](#what-we-learned)
+- [What's Next](#whats-next)
+- [Contributing](#contributing)
+- [License](#license)
+- [Quote](#quote)
 - [Architecture](#architecture)
 
 
@@ -33,6 +40,61 @@ Millions are affected by floods, earthquakes, wildfires, and other disasters eve
 
 ## Built With
 **React.js, TailwindCSS, Node.js, Express.js, MongoDB Atlas, Redis, GCP, Docker, Kubernetes, Leaflet.js, Mapbox API, Twilio API, HuggingFace Transformers, spaCy, Python, TensorFlow Lite, REST APIs, WebSockets, GitHub, Figma**
+
+---
+
+## Features
+- Multi-channel input (Mobile, SMS, WhatsApp)
+- AI categorization & urgency scoring
+- Real-time map clustering & heatmaps
+- Volunteer dashboard with claim/resolution
+- Notifications when requests are fulfilled
+- Security: anonymized & auto-expiring data
+- Accessibility: multi-language, offline, voice input
+
+---
+
+## Accomplishments
+- AI-powered request categorization
+- Real-time disaster map & clustering
+- Volunteer dashboard with live updates
+- Scalable backend tested with 100k+ requests
+- NGO feedback integrated
+
+---
+
+## What We Learned
+- Simplicity & speed save lives
+- Multi-channel & offline support is crucial
+- Hackathons are about impact, not just code
+
+---
+
+## What's Next
+- Offline-first native apps
+- Blockchain-based aid tracking
+- NGO/government partnerships
+- Predictive AI for disaster anticipation
+- Satellite integration for live updates
+
+---
+
+## Contributing
+1. Fork the repo
+2. Create a feature branch (`git checkout -b feature-name`)
+3. Commit your changes (`git commit -m "Add feature"`)
+4. Push the branch (`git push origin feature-name`)
+5. Open a Pull Request
+
+---
+
+## License
+This project is licensed under the **MIT License** – see the [LICENSE](./LICENSE) file for details.
+
+---
+
+## Quote
+*"Disasters are inevitable. Chaos doesn’t have to be. ReliefOn brings order, speed, and hope."*
 
 ---
 
