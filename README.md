@@ -1,7 +1,6 @@
 # 🌍 ReliefOn
 **AI-Powered Platform for Instant Disaster Relief**
 
-![ReliefOn Logo](./assets/reliefon-logo.png)
 
 > 🚑 Turning scattered cries for help into actionable, real-time relief coordination.
 > Because when disaster strikes, **Relief should always be ON.**
